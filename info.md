@@ -3,7 +3,7 @@
 The [Noctis](https://github.com/aFFekopp/noctis) theme for Home Assistant, adapted to use the [Solarized Dark](https://ethanschoonover.com/solarized/) color scheme.
 
 ## Screenshot
-![](https://raw.githubusercontent.com/williamahartman/noctis-solarized/master/docs/screenshots/pc/1.jpg)
+![](https://raw.githubusercontent.com/williamahartman/noctis-solarized/master/docs/screenshots/pc/screenshot.png)
 
 ## Installation
 
