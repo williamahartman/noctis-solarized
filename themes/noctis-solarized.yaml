@@ -35,7 +35,7 @@ noctis-solarized:
 
   # Card
   card-background-color: 'var(--ha-card-background)'
-  ha-card-background: 'rgba(7,54,66,1)' #'linear-gradient(145deg, #273246, #2e3b53)'
+  ha-card-background: "#073642"
   ha-card-box-shadow: "3px 3px 13px -6px rgba(17,35,52,1)"
   ha-card-border-radius: "5px"
   border-color: 'none'
@@ -104,6 +104,8 @@ noctis-solarized:
   # Alarm
   alarm-color-armed: 'rgba(211,54,130,1)'
 
+  # Scrollbars
+  scrollbar-thumb-color: "#586e75"
 
   # Card-Mod #####################################################################
   # Uncomment the Code below if you have card-mod installed and want blur effect #
